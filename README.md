@@ -4,7 +4,7 @@ This repo contains bank details in all formats for developers to integrate in th
 
 **Version 0.1 (12 Apr)**
 - [x] Axis Bank
-- [ ] Bank of Baroda (BOB)
+- [x] Bank of Baroda (BOB)
 - [ ] Central Bank
 - [ ] Canara Bank
 - [ ] HDFC Bank
