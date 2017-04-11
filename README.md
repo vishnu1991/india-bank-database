@@ -2,7 +2,7 @@
 Indian Bank Database 2017
 This repo contains bank details in all formats for developers to integrate in their softwares.Please contribute.
 
-**Version 0.1 (12 Apr)**
+**Version 0.1 **
 - [x] Axis Bank
 - [x] Bank of Baroda (BOB)
 - [x] Central Bank of india
